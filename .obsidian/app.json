@@ -1,0 +1,31 @@
+{
+  "spellcheckDictionary": [
+    "Aboleth",
+    "Arothos",
+    "Aboleth",
+    "Electrum",
+    "Orichalcum",
+    "Mythril",
+    "Greatwyrm",
+    "Athenus",
+    "arcanely",
+    "Badowland",
+    "Dorn",
+    "Bloodfangs",
+    "Xall",
+    "Heros",
+    "Sporebloom",
+    "Abaddon",
+    "Gylvir",
+    "Eldrazi"
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "defaultViewMode": "preview",
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "livePreview": true
+}

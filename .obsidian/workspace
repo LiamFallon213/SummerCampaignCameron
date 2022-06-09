@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "bc3dec8afdb0eaff",
+    "type": "split",
+    "children": [
+      {
+        "id": "67568c9f63ba8799",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "a5e52433972eb280"
+      },
+      {
+        "id": "1945019ec80edea5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "a5e52433972eb280"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89f56b7cc1070def",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecbdd55b847c7ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d708f5a814284c4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a895a1e2d82e9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.0083885192871
+  },
+  "right": {
+    "id": "307437437f53b5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5653cc99384860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc6855ef7466dc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "253d9b5bb6a398bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b34208831e17169e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "913c1eefceafeb52",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 119.26690673828125,
+    "collapsed": true
+  },
+  "active": "67568c9f63ba8799",
+  "lastOpenFiles": [
+    "Session Plans/Session 1 Plan.md",
+    "Planes/Innistrad/Innistrad.md",
+    "Planes/Innistrad/2.md",
+    "Eldrazi/Information/Classifications/Unknowable.md",
+    "Eldrazi/Information/Classifications/Unspeakable.md",
+    "Eldrazi/Information/Classifications/Terminus (Titan).md",
+    "Eldrazi/Information/Classifications/Scion.md",
+    "Eldrazi/Information/Classifications/Abominations.md",
+    "Eldrazi/Information/Classifications/Bane of Bala Ged.md",
+    "Eldrazi/Information/Classifications/Mind Raker.md"
+  ]
+}
