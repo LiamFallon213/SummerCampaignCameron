@@ -1,0 +1,1 @@
+Emperator Augustus is the ruler of the country of Pathos. He is Nyarthlotep.

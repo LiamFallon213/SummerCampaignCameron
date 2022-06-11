@@ -1,0 +1,1 @@
+Tabemira Tomura is a Damphier that was thrown out of her noble house for her necromantic magic, she then became a dhampier.
