@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Tabemira.md",
+            "file": "Pantheon/Deity Names.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Tabemira.md",
+            "file": "Pantheon/Deity Names.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Tabemira.md",
+                "file": "Pantheon/Deity Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +128,9 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Characters/Tabemira.md",
     "Pantheon/Deity Names.md",
     "Characters/Emperator Agustus.md",
+    "Characters/Tabemira.md",
     "General World Information.md",
     "Session Plans/Session 1 Plan.md",
     "Planes/Innistrad/Innistrad.md",
